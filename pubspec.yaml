@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  universal_io: ^2.2.2
-  intl: ^0.20.2
+  universal_io: ^2.3.1
+  intl: ^0.20.3
 
 dev_dependencies:
   flutter_test:

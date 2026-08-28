@@ -30,6 +30,8 @@
 .pub/
 build/
 
+example/ios/Flutter/ephemeral/
+
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
