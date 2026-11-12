@@ -131,3 +131,8 @@
 
 - Upgraded packages and SDK version
 - Fixed [breaking change](https://docs.flutter.dev/release/breaking-changes/asset-manifest-dot-json) from Flutter
+
+## [4.2.0]
+
+- Migrates to material_ui.
+- Updates minimum supported SDK version to Flutter 3.44/Dart 3.12.
